@@ -2,7 +2,7 @@
 
 En este proyecto se pueden realizar acciones como
 Crear, Leer, Actualizar y Eliminar información que está alojada en una Base de Datos.
-con el objetivo de poder manejar la información de de una Base de Datos pero de una manera más Dinámica.
+Con el objetivo de poder manejar la información de una Base de Datos pero de una manera más Dinámica.
 
 
 ## Lenguajes y Tecnologías Utilizadas
